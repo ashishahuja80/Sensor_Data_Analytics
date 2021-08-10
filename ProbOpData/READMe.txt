@@ -1,5 +1,5 @@
 ######################################################################
-PROBOPDATA APPLICATION FILES
+SENSOR DATA APPLICATION FILES
 ######################################################################
 
 This repository contain source code for Sensor Data Application. 
